@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`APP should render the component 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      aria-label="value"
+      id="value"
+    >
+      0
+    </h1>
+    <button
+      aria-label="incrementButton"
+      id="incrementButton"
+      name="increment"
+    >
+       increment +
+    </button>
+    <button
+      aria-label="decrementButton"
+      id="decrementButton"
+      name="decrement"
+    >
+       decrement  -
+    </button>
+  </div>
+</DocumentFragment>
+`;
